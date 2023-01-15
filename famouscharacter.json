@@ -1,0 +1,153 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"",
+      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
+      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
+      "backup_ads_banner":"",
+      "backup_ads_intertitial":"",
+      "interval_intertitial": 2,
+      "initialize_sdk":"107355779",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],"Categories":
+  [
+    {
+    "category":"Mods"
+  },{
+    "category":"Other Mods"
+  }
+  
+  ],
+  "Mods":
+  [
+    {
+      "id":1,
+      "name":"Eren Yeager",
+      "category":"Mods",
+      "image":"https://archive.org/download/famousnpcimg/Eren%20Yeager.jpg",
+      "download":"https://ia904700.us.archive.org/21/items/famousnpcmod/Eren%20Yeager.zip",
+      "description":"file:///android_asset/ueue.html"
+    },
+	{
+      "id":2,
+      "name":"Goblin",
+      "category":"Mods",
+      "image":"https://archive.org/download/famousnpcimg/Goblin.jpg",
+      "download":"https://ia904700.us.archive.org/21/items/famousnpcmod/Grinch.zip",
+      "description":"file:///android_asset/ueue.html"
+    },
+	{
+      "id":3,
+      "name":"Grinch",
+      "category":"Mods",
+      "image":"https://archive.org/download/famousnpcimg/Grinch.jpg",
+      "download":"https://ia904700.us.archive.org/21/items/famousnpcmod/Grinch.zip",
+      "description":"file:///android_asset/ueue.html"
+    },
+	{
+      "id":4,
+      "name":"Kars",
+      "category":"Mods",
+      "image":"https://archive.org/download/famousnpcimg/Kars.jpg",
+      "download":"https://ia904700.us.archive.org/21/items/famousnpcmod/Kars.zip",
+      "description":"file:///android_asset/ueue.html"
+    },
+	{
+      "id":5,
+      "name":"Mafia",
+      "category":"Mods",
+      "image":"https://archive.org/download/famousnpcimg/Mafia.jpg",
+      "download":"https://ia904700.us.archive.org/21/items/famousnpcmod/Mafia.zip",
+      "description":"file:///android_asset/ueue.html"
+    },
+	{
+      "id":6,
+      "name":"Man Chainsaw",
+      "category":"Mods",
+      "image":"https://archive.org/download/famousnpcimg/Man%20Chainsaw.jpg",
+      "download":"https://ia904700.us.archive.org/21/items/famousnpcmod/Man%20Chainsaw.zip",
+      "description":"file:///android_asset/ueue.html"
+    },
+	{
+      "id":7,
+      "name":"Melon axe and melon machine gun",
+      "category":"Mods",
+      "image":"https://archive.org/download/famousnpcimg/Melon%20axe%20and%20melon%20machine%20gun.jpg",
+      "download":"https://ia904700.us.archive.org/21/items/famousnpcmod/Melon%20axe%20and%20melon%20machine%20gun.zip",
+      "description":"file:///android_asset/ueue.html"
+    },
+	{
+      "id":8,
+      "name":"Pack on Laser",
+      "category":"Mods",
+      "image":"https://archive.org/download/famousnpcimg/Pack%20on%20Laser.jpg",
+      "download":"https://ia904700.us.archive.org/21/items/famousnpcmod/Pack%20on%20Laser.zip",
+      "description":"file:///android_asset/ueue.html"
+    },
+	{
+      "id":9,
+      "name":"Patrick Bateman",
+      "category":"Mods",
+      "image":"https://archive.org/download/famousnpcimg/Patrick%20Bateman.jpg",
+      "download":"https://ia904700.us.archive.org/21/items/famousnpcmod/Patrick%20Bateman.zip",
+      "description":"file:///android_asset/ueue.html"
+    },
+	{
+      "id":10,
+      "name":"Roronoa Zoro",
+      "category":"Mods",
+      "image":"https://archive.org/download/famousnpcimg/Roronoa%20Zoro.jpg",
+      "download":"https://ia904700.us.archive.org/21/items/famousnpcmod/Roronoa%20Zoro.zip",
+      "description":"file:///android_asset/ueue.html"
+    },
+	{
+      "id":11,
+      "name":"Shay Patrick",
+      "category":"Mods",
+      "image":"https://archive.org/download/famousnpcimg/Shay%20Patrick.jpg",
+      "download":"https://ia904700.us.archive.org/21/items/famousnpcmod/Shay%20Patrick.zip",
+      "description":"file:///android_asset/ueue.html"
+    },
+	{
+      "id":12,
+      "name":"",
+      "category":"Mods",
+      "image":"",
+      "download":"",
+      "description":"file:///android_asset/ueue.html"
+    },
+	{
+      "id":13,
+      "name":"",
+      "category":"Mods",
+      "image":"",
+      "download":"",
+      "description":"file:///android_asset/ueue.html"
+    },
+	{
+      "id":14,
+      "name":"",
+      "category":"Mods",
+      "image":"",
+      "download":"",
+      "description":"file:///android_asset/ueue.html"
+    },
+	{
+      "id":15,
+      "name":"",
+      "category":"Mods",
+      "image":"",
+      "download":"",
+      "description":"file:///android_asset/ueue.html"
+    }
+	 ]
+}

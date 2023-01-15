@@ -1,0 +1,153 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"",
+      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
+      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
+      "backup_ads_banner":"",
+      "backup_ads_intertitial":"",
+      "interval_intertitial": 2,
+      "initialize_sdk":"107355779",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],"Categories":
+  [
+    {
+    "category":"Mods"
+  },{
+    "category":"Other Mods"
+  }
+  
+  ],
+  "Mods":
+  [
+    {
+      "id":1,
+      "name":"Raiden",
+      "category":"Mods",
+      "image":"https://archive.org/download/mortalcombimg/Raiden.jpg",
+      "download":"https://ia904709.us.archive.org/26/items/mortalcombmods/Raiden.zip",
+      "description":"file:///android_asset/ueue.html"
+    },
+	{
+      "id":2,
+      "name":"Sektor",
+      "category":"Mods",
+      "image":"https://archive.org/download/mortalcombimg/Sektor.jpg",
+      "download":"https://ia904709.us.archive.org/26/items/mortalcombmods/sektor.zip",
+      "description":"file:///android_asset/ueue.html"
+    },
+	{
+      "id":3,
+      "name":"Baraka",
+      "category":"Mods",
+      "image":"https://archive.org/download/mortalcombimg/baraka.jpg",
+      "download":"https://ia904709.us.archive.org/26/items/mortalcombmods/BARAKA.zip",
+      "description":"file:///android_asset/ueue.html"
+    },
+	{
+      "id":4,
+      "name":"Jax",
+      "category":"Mods",
+      "image":"https://archive.org/download/mortalcombimg/jax.jpg",
+      "download":"https://ia904709.us.archive.org/26/items/mortalcombmods/JAX.zip",
+      "description":"file:///android_asset/ueue.html"
+    },
+	{
+      "id":5,
+      "name":"Kabal",
+      "category":"Mods",
+      "image":"https://archive.org/download/mortalcombimg/kabal.jpg",
+      "download":"https://ia904709.us.archive.org/26/items/mortalcombmods/KABAL.zip",
+      "description":"file:///android_asset/ueue.html"
+    },
+	{
+      "id":6,
+      "name":"Kano",
+      "category":"Mods",
+      "image":"https://archive.org/download/mortalcombimg/kano.jpg",
+      "download":"https://ia904709.us.archive.org/26/items/mortalcombmods/KANO.zip",
+      "description":"file:///android_asset/ueue.html"
+    },
+	{
+      "id":7,
+      "name":"NoobSaibot",
+      "category":"Mods",
+      "image":"https://archive.org/download/mortalcombimg/noobsaibot.jpg",
+      "download":"",
+      "description":"file:///android_asset/ueue.html"
+    },
+	{
+      "id":8,
+      "name":"Raiden D",
+      "category":"Mods",
+      "image":"https://archive.org/download/mortalcombimg/raiden%20d.jpg",
+      "download":"https://ia904709.us.archive.org/26/items/mortalcombmods/RAIDEN%20D.zip",
+      "description":"file:///android_asset/ueue.html"
+    },
+	{
+      "id":9,
+      "name":"Scorpion",
+      "category":"Mods",
+      "image":"https://archive.org/download/mortalcombimg/scorpion.jpg",
+      "download":"https://ia904709.us.archive.org/26/items/mortalcombmods/scorpion.zip",
+      "description":"file:///android_asset/ueue.html"
+    },
+	{
+      "id":10,
+      "name":"Shaokan",
+      "category":"Mods",
+      "image":"https://archive.org/download/mortalcombimg/shaokan.jpg",
+      "download":"https://ia904709.us.archive.org/26/items/mortalcombmods/shaokan.zip",
+      "description":"file:///android_asset/ueue.html"
+    },
+	{
+      "id":11,
+      "name":"Subzero",
+      "category":"Mods",
+      "image":"https://archive.org/download/mortalcombimg/subzero.jpg",
+      "download":"https://ia904709.us.archive.org/26/items/mortalcombmods/subzero.zip",
+      "description":"file:///android_asset/ueue.html"
+    },
+	{
+      "id":12,
+      "name":"",
+      "category":"Mods",
+      "image":"",
+      "download":"",
+      "description":"file:///android_asset/ueue.html"
+    },
+	{
+      "id":13,
+      "name":"",
+      "category":"Mods",
+      "image":"",
+      "download":"",
+      "description":"<div>\n<p style=\"text-align: justify;\"></p>\n</div>\n<div class=\"content__wrap-row__gtm_adv\" style=\"text-align: justify;\">by top-mods</div>\n<div>\n<div>\n<figure class=\"image align-center\" style=\"text-align: justify;\">\n<div><p style=\"font-size:11px\">1. PRESS DOWNLOAD</div>\n<div><p style=\"font-size:11px\">Your downloaded file can be found in the Download folder </div>\n<div><p style=\"font-size:11px\">EXP: Download/GoblinMod/Goblin.melmod</div>\n<div><p style=\"font-size:11px\">3. COPY & PASTE</div>\n<div><p style=\"font-size:11px\">Copy extracted mod exp: Goblin.melmod and then PASTE it in folder=</div>\n<div><p style=\"font-size:11px\">/android/data/com.TwentySeven.MelonPlayground/files/Mods</div>\n<div><p style=\"font-size:11px\">DETAIL TARGET FOLDER</div>\n<div><p style=\"font-size:11px\">storage/emulated/0 /android/data/</div>\n<div><p style=\"font-size:11px\">com.TwentySeven. MelonPlayground/ mod/</div>\n<div><p style=\"font-size:11px\">[your Goblin.melsave here)</div></figure>\n</div>"
+    },
+	{
+      "id":14,
+      "name":"",
+      "category":"Mods",
+      "image":"",
+      "download":"",
+      "description":"file:///android_asset/ueue.html"
+    },
+	{
+      "id":15,
+      "name":"",
+      "category":"Mods",
+      "image":"",
+      "download":"",
+      "description":"file:///android_asset/ueue.html"
+    }
+	 ]
+}

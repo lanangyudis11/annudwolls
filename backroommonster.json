@@ -1,0 +1,153 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"",
+      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
+      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
+      "backup_ads_banner":"",
+      "backup_ads_intertitial":"",
+      "interval_intertitial": 2,
+      "initialize_sdk":"107355779",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],"Categories":
+  [
+    {
+    "category":"Mods"
+  },{
+    "category":"Other Mods"
+  }
+  
+  ],
+  "Mods":
+  [
+    {
+      "id":1,
+      "name":"Backrooms Monster",
+      "category":"Mods",
+      "image":"https://archive.org/download/backroomimg/Backrooms%20Monster.jpg",
+      "download":"https://ia904709.us.archive.org/13/items/backroommod/BackRoomsNPC.zip",
+      "description":"file:///android_asset/ueue.html"
+    },
+	{
+      "id":2,
+      "name":"CosmicEntity",
+      "category":"Mods",
+      "image":"https://archive.org/download/backroomimg/CosmicEntity.jpg",
+      "download":"https://ia904709.us.archive.org/13/items/backroommod/CosmicEntity.zip",
+      "description":"file:///android_asset/ueue.html"
+    },
+	{
+      "id":3,
+      "name":"D4C",
+      "category":"Mods",
+      "image":"https://archive.org/download/backroomimg/D4C.jpg",
+      "download":"https://ia904709.us.archive.org/13/items/backroommod/D4C.zip",
+      "description":"file:///android_asset/ueue.html"
+    },
+	{
+      "id":4,
+      "name":"Granny",
+      "category":"Mods",
+      "image":"https://archive.org/download/backroomimg/Granny.jpg",
+      "download":"https://ia904709.us.archive.org/13/items/backroommod/Granny.zip",
+      "description":"file:///android_asset/ueue.html"
+    },
+	{
+      "id":5,
+      "name":"Grinch",
+      "category":"Mods",
+      "image":"https://archive.org/download/backroomimg/Grinch.jpg",
+      "download":"https://ia904709.us.archive.org/13/items/backroommod/Grinch.zip",
+      "description":"file:///android_asset/ueue.html"
+    },
+	{
+      "id":6,
+      "name":"JackoPlatinum",
+      "category":"Mods",
+      "image":"https://archive.org/download/backroomimg/JackoPlatinum.jpg",
+      "download":"https://ia904709.us.archive.org/13/items/backroommod/JackoPlatinum.zip",
+      "description":"file:///android_asset/ueue.html"
+    },
+	{
+      "id":7,
+      "name":"MTF",
+      "category":"Mods",
+      "image":"https://archive.org/download/backroomimg/MTF.jpg",
+      "download":"https://ia904709.us.archive.org/13/items/backroommod/mtf.zip",
+      "description":"file:///android_asset/ueue.html"
+    },
+	{
+      "id":8,
+      "name":"Nightmare",
+      "category":"Mods",
+      "image":"https://archive.org/download/backroomimg/Nightmare.jpg",
+      "download":"https://ia904709.us.archive.org/13/items/backroommod/nightmare.zip",
+      "description":"file:///android_asset/ueue.html"
+    },
+	{
+      "id":9,
+      "name":"SCP087",
+      "category":"Mods",
+      "image":"https://archive.org/download/backroomimg/SCP087.jpg",
+      "download":"https://ia904709.us.archive.org/13/items/backroommod/SCP087.zip",
+      "description":"file:///android_asset/ueue.html"
+    },
+	{
+      "id":10,
+      "name":"jaws",
+      "category":"Mods",
+      "image":"https://archive.org/download/backroomimg/jaws.jpg",
+      "download":"https://ia904709.us.archive.org/13/items/backroommod/Jaws.zip",
+      "description":"file:///android_asset/ueue.html"
+    },
+	{
+      "id":11,
+      "name":"",
+      "category":"Mods",
+      "image":"",
+      "download":"",
+      "description":"file:///android_asset/ueue.html"
+    },
+	{
+      "id":12,
+      "name":"",
+      "category":"Mods",
+      "image":"",
+      "download":"",
+      "description":"file:///android_asset/ueue.html"
+    },
+	{
+      "id":13,
+      "name":"",
+      "category":"Mods",
+      "image":"",
+      "download":"",
+      "description":"file:///android_asset/ueue.html"
+    },
+	{
+      "id":14,
+      "name":"",
+      "category":"Mods",
+      "image":"",
+      "download":"",
+      "description":"file:///android_asset/ueue.html"
+    },
+	{
+      "id":15,
+      "name":"",
+      "category":"Mods",
+      "image":"",
+      "download":"",
+      "description":"file:///android_asset/ueue.html"
+    }
+	 ]
+}
