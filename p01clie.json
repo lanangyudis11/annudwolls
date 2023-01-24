@@ -68,91 +68,235 @@
     },
 	{
       "id":5,
-      "name":"",
+      "name":"Bh991",
       "category":"Mods",
-      "image":"",
-      "download":"",
+      "image":"https://archive.org/download/cyborgimg/Bh991.jpg",
+      "download":"https://ia904702.us.archive.org/35/items/cyborgmods/bh991%E2%80%8B.zip",
       "description":"file:///android_asset/ueue.html"
     },
 	{
       "id":6,
-      "name":"",
+      "name":"CLASSICROBOT",
       "category":"Mods",
-      "image":"",
-      "download":"",
+      "image":"https://archive.org/download/cyborgimg/CLASSICROBOT.jpg",
+      "download":"https://ia804702.us.archive.org/35/items/cyborgmods/CLASSICROBOT.zip",
       "description":"file:///android_asset/ueue.html"
     },
 	{
       "id":7,
-      "name":"",
+      "name":"Cyborg",
       "category":"Mods",
-      "image":"",
-      "download":"",
+      "image":"https://archive.org/download/cyborgimg/Cyborg.jpg",
+      "download":"https://ia804702.us.archive.org/35/items/cyborgmods/Cyborg.zip",
       "description":"file:///android_asset/ueue.html"
     },
 	{
       "id":8,
-      "name":"",
+      "name":"DEVASTATOR",
       "category":"Mods",
-      "image":"",
-      "download":"",
+      "image":"https://archive.org/download/cyborgimg/DEVASTATOR.jpg",
+      "download":"https://ia804702.us.archive.org/35/items/cyborgmods/devastator%20m12%E2%80%8B.zip",
       "description":"file:///android_asset/ueue.html"
     },
 	{
       "id":9,
-      "name":"",
+      "name":"Eva",
       "category":"Mods",
-      "image":"",
-      "download":"",
+      "image":"https://archive.org/download/cyborgimg/Eva.jpg",
+      "download":"https://ia904702.us.archive.org/35/items/cyborgmods/eva.zip",
       "description":"file:///android_asset/ueue.html"
     },
 	{
       "id":10,
-      "name":"",
+      "name":"GKOGAM",
       "category":"Mods",
-      "image":"",
-      "download":"",
+      "image":"https://archive.org/download/cyborgimg/GKOGAM.jpg",
+      "download":"https://ia804702.us.archive.org/35/items/cyborgmods/gkoGam%20and%20meatoon%208%E2%80%8B.zip",
       "description":"file:///android_asset/ueue.html"
     },
 	{
       "id":11,
-      "name":"",
+      "name":"KALOS",
       "category":"Mods",
-      "image":"",
-      "download":"",
+      "image":"https://archive.org/download/cyborgimg/KALOS.jpg",
+      "download":"https://ia804702.us.archive.org/35/items/cyborgmods/KALOS.zip",
       "description":"file:///android_asset/ueue.html"
     },
 	{
       "id":12,
-      "name":"",
+      "name":"MAGNUM342",
       "category":"Mods",
-      "image":"",
-      "download":"",
+      "image":"https://archive.org/download/cyborgimg/MAGNUM342.jpg",
+      "download":"https://ia804702.us.archive.org/35/items/cyborgmods/magnum%20342%E2%80%8B.zip",
       "description":"file:///android_asset/ueue.html"
     },
 	{
       "id":13,
-      "name":"",
+      "name":"PB468",
       "category":"Mods",
-      "image":"",
-      "download":"",
+      "image":"https://archive.org/download/cyborgimg/PB468.jpg",
+      "download":"https://ia904702.us.archive.org/35/items/cyborgmods/pb468%E2%80%8B.zip",
       "description":"file:///android_asset/ueue.html"
     },
 	{
       "id":14,
-      "name":"",
+      "name":"R800",
       "category":"Mods",
-      "image":"",
-      "download":"",
+      "image":"https://archive.org/download/cyborgimg/R800.jpg",
+      "download":"https://ia904702.us.archive.org/35/items/cyborgmods/R800%E2%80%8B%20%281%29.zip",
       "description":"file:///android_asset/ueue.html"
     },
 	{
       "id":15,
-      "name":"",
+      "name":"ROBOSTERZOKA",
       "category":"Mods",
-      "image":"",
-      "download":"",
+      "image":"https://archive.org/download/cyborgimg/ROBOSTERZOKA.jpg",
+      "download":"https://ia804702.us.archive.org/35/items/cyborgmods/robostrekoza%E2%80%8B.zip",
       "description":"file:///android_asset/ueue.html"
-    }
+    },
+	{
+      "id":16,
+      "name":"ROBOT",
+      "category":"Mods",
+      "image":"https://archive.org/download/cyborgimg/ROBOT.jpg",
+      "download":"https://ia804702.us.archive.org/35/items/cyborgmods/robot.zip",
+      "description":"file:///android_asset/ueue.html"
+    },
+	{
+      "id":17,
+      "name":"Robot Druid",
+      "category":"Mods",
+      "image":"https://archive.org/download/cyborgimg/Robot%20Druid.jpg",
+      "download":"https://ia804702.us.archive.org/35/items/cyborgmods/robot%20druid111111111%E2%80%8B.zip",
+      "description":"file:///android_asset/ueue.html"
+    },
+	{
+      "id":18,
+      "name":"spider robot",
+      "category":"Mods",
+      "image":"https://archive.org/download/cyborgimg/spider%20robot.jpg",
+      "download":"https://ia804702.us.archive.org/35/items/cyborgmods/spider%20robot%E2%80%8B.zip",
+      "description":"file:///android_asset/ueue.html"
+    },
+	{
+      "id":19,
+      "name":"sultan f34",
+      "category":"Mods",
+      "image":"https://archive.org/download/cyborgimg/sultan%20f34.jpg",
+      "download":"https://ia904702.us.archive.org/35/items/cyborgmods/sultan%20f34%E2%80%8B.zip",
+      "description":"file:///android_asset/ueue.html"
+    },
+	{
+      "id":20,
+      "name":"tnk01",
+      "category":"Mods",
+      "image":"https://archive.org/download/cyborgimg/tnk01.jpg",
+      "download":"https://ia904702.us.archive.org/35/items/cyborgmods/TNK%2001%20by%20Dilleron%E2%80%8B.zip",
+      "description":"file:///android_asset/ueue.html"
+    },
+  {
+    "id":21,
+    "name":"Robot Alpha",
+    "category":"Mods",
+    "image":"https://aweu.net/2023/BENDOIL/Almesha/Robot/Robot%20Alpha/Robot%20Alpha.jpg",
+    "download":"https://aweu.net/2023/BENDOIL/Almesha/Robot/Robot%20Alpha/Robot%20Alpha.zip",
+    "description":"file:///android_asset/ueue.html"
+  },
+  {
+    "id":22,
+    "name":"Robot Atlas",
+    "category":"Mods",
+    "image":"https://aweu.net/2023/BENDOIL/Almesha/Robot/Robot%20Atlas/Robot%20Atlas.jpg",
+    "download":"https://aweu.net/2023/BENDOIL/Almesha/Robot/Robot%20Atlas/Robot%20Atlas.zip",
+    "description":"file:///android_asset/ueue.html"
+  },
+  {
+    "id":23,
+    "name":"Robot By Kaktus",
+    "category":"Mods",
+    "image":"https://aweu.net/2023/BENDOIL/Almesha/Robot/Robot%20By%20Kaktus/Robot%20By%20Kaktus.jpg",
+    "download":"https://aweu.net/2023/BENDOIL/Almesha/Robot/Robot%20By%20Kaktus/Robot%20By%20Kaktus.zip",
+    "description":"file:///android_asset/ueue.html"
+  },
+  {
+    "id":24,
+    "name":"Robot Druid",
+    "category":"Mods",
+    "image":"https://aweu.net/2023/BENDOIL/Almesha/Robot/Robot%20Druid/Robot%20Druid.jpg",
+    "download":"https://aweu.net/2023/BENDOIL/Almesha/Robot/Robot%20Druid/Robot%20Druid.zip",
+    "description":"file:///android_asset/ueue.html"
+  },
+  {
+    "id":25,
+    "name":"Robot Kcelebox",
+    "category":"Mods",
+    "image":"https://aweu.net/2023/BENDOIL/Almesha/Robot/Robot%20Kcelebox/Robot%20Kcelebox.jpg",
+    "download":"https://aweu.net/2023/BENDOIL/Almesha/Robot/Robot%20Kcelebox/Robot%20Kcelebox.zip",
+    "description":"file:///android_asset/ueue.html"
+  },
+  {
+    "id":26,
+    "name":"Robot Maud",
+    "category":"Mods",
+    "image":"https://aweu.net/2023/BENDOIL/Almesha/Robot/Robot%20Maud/Robot%20Maud.jpg",
+    "download":"https://aweu.net/2023/BENDOIL/Almesha/Robot/Robot%20Maud/Robot%20Maud.zip",
+    "description":"file:///android_asset/ueue.html"
+  },
+  {
+    "id":27,
+    "name":"Robot Mod",
+    "category":"Mods",
+    "image":"https://aweu.net/2023/BENDOIL/Almesha/Robot/Robot%20Mod/Robot%20Mod.jpg",
+    "download":"https://aweu.net/2023/BENDOIL/Almesha/Robot/Robot%20Mod/Robot%20Mod.zip",
+    "description":"file:///android_asset/ueue.html"
+  },
+  {
+    "id":28,
+    "name":"Robot Mod - JB6",
+    "category":"Mods",
+    "image":"https://aweu.net/2023/BENDOIL/Almesha/Robot/Robot%20Mod%20-%20JB6/Robot%20Mod%20-%20JB6.jpg?",
+    "download":"https://aweu.net/2023/BENDOIL/Almesha/Robot/Robot%20Mod%20-%20JB6/Robot%20Mod%20-%20JB6.zip",
+    "description":"file:///android_asset/ueue.html"
+  },
+  {
+    "id":29,
+    "name":"Robot Mod 2",
+    "category":"Mods",
+    "image":"https://aweu.net/2023/BENDOIL/Almesha/Robot/Robot%20Mod%202/Robot%20Mod%202.jpg",
+    "download":"https://aweu.net/2023/BENDOIL/Almesha/Robot/Robot%20Mod%202/Robot%20Mod%202.zip",
+    "description":"file:///android_asset/ueue.html"
+  },
+  {
+    "id":30,
+    "name":"Robot Off",
+    "category":"Mods",
+    "image":"https://aweu.net/2023/BENDOIL/Almesha/Robot/Robot%20Off/Robot%20Off.jpg",
+    "download":"https://aweu.net/2023/BENDOIL/Almesha/Robot/Robot%20Off/Robot%20Off.zip",
+    "description":"file:///android_asset/ueue.html"
+  },
+  {
+    "id":31,
+    "name":"Robot People Playground",
+    "category":"Mods",
+    "image":"https://aweu.net/2023/BENDOIL/Almesha/Robot/Robot%20People%20Playground/Robot%20People%20Playground.jpg",
+    "download":"https://aweu.net/2023/BENDOIL/Almesha/Robot/Robot%20People%20Playground/Robot%20People%20Playground.zip",
+    "description":"file:///android_asset/ueue.html"
+  },
+  {
+    "id":32,
+    "name":"Robot Version 1",
+    "category":"Mods",
+    "image":"https://aweu.net/2023/BENDOIL/Almesha/Robot/Robot%20Version%201/Robot%20Version%201.jpg",
+    "download":"https://aweu.net/2023/BENDOIL/Almesha/Robot/Robot%20Version%201/Robot%20Version%201.zip",
+    "description":"file:///android_asset/ueue.html"
+  },
+  {
+    "id":33,
+    "name":"The robot of the future",
+    "category":"Mods",
+    "image":"https://aweu.net/2023/BENDOIL/Almesha/Robot/The%20robot%20of%20the%20future/The%20robot%20of%20the%20future.jpg",
+    "download":"https://aweu.net/2023/BENDOIL/Almesha/Robot/The%20robot%20of%20the%20future/The%20robot%20of%20the%20future.zip",
+    "description":"file:///android_asset/ueue.html"
+  }
 	 ]
 }
